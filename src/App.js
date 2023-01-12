@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Learn Docker, Jenkins and Kubernetes and AWS
         </a>
       </header>
     </div>
